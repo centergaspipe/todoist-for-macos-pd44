@@ -1,4 +1,4 @@
-
+Enhance Todoist for macOS with updated Todoist for macOS Plugin | dark mode + offline access, the #1 plugin. Includes dark mode and offline access for a smoother experience.
 
 
 
